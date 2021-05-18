@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9291551-beea-4165-921e-412878c989cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="c283e14c0107" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1feOsUqOb8CyMnP1Gt6vV6SPGMw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/Commande" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="M:\Application-Stage\gestion_delegue\assets\Commande" />
+      <recent name="M:\Application-Stage\gestion_delegue\lib\Pages-Admin\Delegue" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="M:\Application-Stage\gestion_delegue\assets\Commande" />
+      <recent name="M:\Application-Stage\gestion_delegue\assets\Rapport" />
+      <recent name="M:\Application-Stage\gestion_delegue\assets" />
+      <recent name="M:\Application-Stage\gestion_delegue\lib\Pages-Admin\Medicament" />
+      <recent name="M:\Application-Stage\gestion_delegue\lib\Pages-Admin\Docteur" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9291551-beea-4165-921e-412878c989cb" name="Default Changelist" comment="" />
+      <created>1596575301018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596575301018</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1613504919945">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1613504919945" />
+    <state width="1323" height="111" key="GridCell.Tab.0.bottom" timestamp="1608329949243">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="111" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608329949243" />
+    <state width="1323" height="111" key="GridCell.Tab.0.center" timestamp="1608329949241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="111" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608329949241" />
+    <state width="1323" height="111" key="GridCell.Tab.0.left" timestamp="1608329949240">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="111" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608329949240" />
+    <state width="1323" height="111" key="GridCell.Tab.0.right" timestamp="1608329949242">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="111" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608329949242" />
+    <state x="757" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1613504247275">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="757" y="267" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1613504247275" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/Authentification.dart</url>
+          <line>216</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/Pages_Delegue/Commande/Liste_Commande.dart</url>
+          <line>46</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
